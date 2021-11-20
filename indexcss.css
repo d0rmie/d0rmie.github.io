@@ -1,0 +1,9 @@
+* {
+    background-color:darkslateblue;
+    font-size: 10px;
+    color:aliceblue;
+}
+body {
+   border: 10px solid goldenrod; 
+   border-radius:25px;
+}
